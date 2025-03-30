@@ -1,0 +1,15 @@
+C:\Desktop\Code\C#\DesignPattern\MultitonDesignPattern\bin\Debug\net9.0\MultitonDesignPattern.exe
+C:\Desktop\Code\C#\DesignPattern\MultitonDesignPattern\bin\Debug\net9.0\MultitonDesignPattern.deps.json
+C:\Desktop\Code\C#\DesignPattern\MultitonDesignPattern\bin\Debug\net9.0\MultitonDesignPattern.runtimeconfig.json
+C:\Desktop\Code\C#\DesignPattern\MultitonDesignPattern\bin\Debug\net9.0\MultitonDesignPattern.dll
+C:\Desktop\Code\C#\DesignPattern\MultitonDesignPattern\bin\Debug\net9.0\MultitonDesignPattern.pdb
+C:\Desktop\Code\C#\DesignPattern\MultitonDesignPattern\obj\Debug\net9.0\MultitonDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desktop\Code\C#\DesignPattern\MultitonDesignPattern\obj\Debug\net9.0\MultitonDesignPattern.AssemblyInfoInputs.cache
+C:\Desktop\Code\C#\DesignPattern\MultitonDesignPattern\obj\Debug\net9.0\MultitonDesignPattern.AssemblyInfo.cs
+C:\Desktop\Code\C#\DesignPattern\MultitonDesignPattern\obj\Debug\net9.0\MultitonDesignPattern.csproj.CoreCompileInputs.cache
+C:\Desktop\Code\C#\DesignPattern\MultitonDesignPattern\obj\Debug\net9.0\MultitonDesignPattern.sourcelink.json
+C:\Desktop\Code\C#\DesignPattern\MultitonDesignPattern\obj\Debug\net9.0\MultitonDesignPattern.dll
+C:\Desktop\Code\C#\DesignPattern\MultitonDesignPattern\obj\Debug\net9.0\refint\MultitonDesignPattern.dll
+C:\Desktop\Code\C#\DesignPattern\MultitonDesignPattern\obj\Debug\net9.0\MultitonDesignPattern.pdb
+C:\Desktop\Code\C#\DesignPattern\MultitonDesignPattern\obj\Debug\net9.0\MultitonDesignPattern.genruntimeconfig.cache
+C:\Desktop\Code\C#\DesignPattern\MultitonDesignPattern\obj\Debug\net9.0\ref\MultitonDesignPattern.dll

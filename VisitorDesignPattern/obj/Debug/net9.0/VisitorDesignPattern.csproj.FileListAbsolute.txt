@@ -1,0 +1,15 @@
+C:\Desktop\Code\C#\DesignPattern\VisitorDesignPattern\bin\Debug\net9.0\VisitorDesignPattern.exe
+C:\Desktop\Code\C#\DesignPattern\VisitorDesignPattern\bin\Debug\net9.0\VisitorDesignPattern.deps.json
+C:\Desktop\Code\C#\DesignPattern\VisitorDesignPattern\bin\Debug\net9.0\VisitorDesignPattern.runtimeconfig.json
+C:\Desktop\Code\C#\DesignPattern\VisitorDesignPattern\bin\Debug\net9.0\VisitorDesignPattern.dll
+C:\Desktop\Code\C#\DesignPattern\VisitorDesignPattern\bin\Debug\net9.0\VisitorDesignPattern.pdb
+C:\Desktop\Code\C#\DesignPattern\VisitorDesignPattern\obj\Debug\net9.0\VisitorDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desktop\Code\C#\DesignPattern\VisitorDesignPattern\obj\Debug\net9.0\VisitorDesignPattern.AssemblyInfoInputs.cache
+C:\Desktop\Code\C#\DesignPattern\VisitorDesignPattern\obj\Debug\net9.0\VisitorDesignPattern.AssemblyInfo.cs
+C:\Desktop\Code\C#\DesignPattern\VisitorDesignPattern\obj\Debug\net9.0\VisitorDesignPattern.csproj.CoreCompileInputs.cache
+C:\Desktop\Code\C#\DesignPattern\VisitorDesignPattern\obj\Debug\net9.0\VisitorDesignPattern.sourcelink.json
+C:\Desktop\Code\C#\DesignPattern\VisitorDesignPattern\obj\Debug\net9.0\VisitorDesignPattern.dll
+C:\Desktop\Code\C#\DesignPattern\VisitorDesignPattern\obj\Debug\net9.0\refint\VisitorDesignPattern.dll
+C:\Desktop\Code\C#\DesignPattern\VisitorDesignPattern\obj\Debug\net9.0\VisitorDesignPattern.pdb
+C:\Desktop\Code\C#\DesignPattern\VisitorDesignPattern\obj\Debug\net9.0\VisitorDesignPattern.genruntimeconfig.cache
+C:\Desktop\Code\C#\DesignPattern\VisitorDesignPattern\obj\Debug\net9.0\ref\VisitorDesignPattern.dll

@@ -1,0 +1,15 @@
+C:\Desktop\Code\C#\DesignPattern\MediatorDesignPattern\bin\Debug\net9.0\MediatorDesignPattern.exe
+C:\Desktop\Code\C#\DesignPattern\MediatorDesignPattern\bin\Debug\net9.0\MediatorDesignPattern.deps.json
+C:\Desktop\Code\C#\DesignPattern\MediatorDesignPattern\bin\Debug\net9.0\MediatorDesignPattern.runtimeconfig.json
+C:\Desktop\Code\C#\DesignPattern\MediatorDesignPattern\bin\Debug\net9.0\MediatorDesignPattern.dll
+C:\Desktop\Code\C#\DesignPattern\MediatorDesignPattern\bin\Debug\net9.0\MediatorDesignPattern.pdb
+C:\Desktop\Code\C#\DesignPattern\MediatorDesignPattern\obj\Debug\net9.0\MediatorDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desktop\Code\C#\DesignPattern\MediatorDesignPattern\obj\Debug\net9.0\MediatorDesignPattern.AssemblyInfoInputs.cache
+C:\Desktop\Code\C#\DesignPattern\MediatorDesignPattern\obj\Debug\net9.0\MediatorDesignPattern.AssemblyInfo.cs
+C:\Desktop\Code\C#\DesignPattern\MediatorDesignPattern\obj\Debug\net9.0\MediatorDesignPattern.csproj.CoreCompileInputs.cache
+C:\Desktop\Code\C#\DesignPattern\MediatorDesignPattern\obj\Debug\net9.0\MediatorDesignPattern.sourcelink.json
+C:\Desktop\Code\C#\DesignPattern\MediatorDesignPattern\obj\Debug\net9.0\MediatorDesignPattern.dll
+C:\Desktop\Code\C#\DesignPattern\MediatorDesignPattern\obj\Debug\net9.0\refint\MediatorDesignPattern.dll
+C:\Desktop\Code\C#\DesignPattern\MediatorDesignPattern\obj\Debug\net9.0\MediatorDesignPattern.pdb
+C:\Desktop\Code\C#\DesignPattern\MediatorDesignPattern\obj\Debug\net9.0\MediatorDesignPattern.genruntimeconfig.cache
+C:\Desktop\Code\C#\DesignPattern\MediatorDesignPattern\obj\Debug\net9.0\ref\MediatorDesignPattern.dll

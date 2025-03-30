@@ -1,0 +1,15 @@
+C:\Desktop\Code\C#\DesignPattern\CommandDesignPattern\bin\Debug\net9.0\CommandDesignPattern.exe
+C:\Desktop\Code\C#\DesignPattern\CommandDesignPattern\bin\Debug\net9.0\CommandDesignPattern.deps.json
+C:\Desktop\Code\C#\DesignPattern\CommandDesignPattern\bin\Debug\net9.0\CommandDesignPattern.runtimeconfig.json
+C:\Desktop\Code\C#\DesignPattern\CommandDesignPattern\bin\Debug\net9.0\CommandDesignPattern.dll
+C:\Desktop\Code\C#\DesignPattern\CommandDesignPattern\bin\Debug\net9.0\CommandDesignPattern.pdb
+C:\Desktop\Code\C#\DesignPattern\CommandDesignPattern\obj\Debug\net9.0\CommandDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desktop\Code\C#\DesignPattern\CommandDesignPattern\obj\Debug\net9.0\CommandDesignPattern.AssemblyInfoInputs.cache
+C:\Desktop\Code\C#\DesignPattern\CommandDesignPattern\obj\Debug\net9.0\CommandDesignPattern.AssemblyInfo.cs
+C:\Desktop\Code\C#\DesignPattern\CommandDesignPattern\obj\Debug\net9.0\CommandDesignPattern.csproj.CoreCompileInputs.cache
+C:\Desktop\Code\C#\DesignPattern\CommandDesignPattern\obj\Debug\net9.0\CommandDesignPattern.sourcelink.json
+C:\Desktop\Code\C#\DesignPattern\CommandDesignPattern\obj\Debug\net9.0\CommandDesignPattern.dll
+C:\Desktop\Code\C#\DesignPattern\CommandDesignPattern\obj\Debug\net9.0\refint\CommandDesignPattern.dll
+C:\Desktop\Code\C#\DesignPattern\CommandDesignPattern\obj\Debug\net9.0\CommandDesignPattern.pdb
+C:\Desktop\Code\C#\DesignPattern\CommandDesignPattern\obj\Debug\net9.0\CommandDesignPattern.genruntimeconfig.cache
+C:\Desktop\Code\C#\DesignPattern\CommandDesignPattern\obj\Debug\net9.0\ref\CommandDesignPattern.dll
